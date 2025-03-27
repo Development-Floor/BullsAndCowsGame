@@ -1,4 +1,4 @@
-# Visual Studio 2015 user specific files
+# Visual Studio specific files
 .vs/
 
 # Compiled Object files
@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal Engine additional ignored folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
